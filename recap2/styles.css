@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+  }
+
+.search {
+    background-color: rgb(231, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-align: center;
+    display: block;
+}
+
+.boxes {
+  display: flex;
+}
+
+.box {
+  width: 500px;
+  height: 100px;
+  background-color: aqua;
+  margin: 10px;
+}
+
+#container{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 0px;
+}
+
+
